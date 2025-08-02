@@ -50,8 +50,8 @@ Run the cells to see all the analysis and charts
 👩‍💻 About Me
 I'm currently learning data analysis and this was one of my hands-on projects. If you have feedback, ideas, or just want to say hi — feel free to connect!
 
-📎linkedin Profile
+📎linkedin Profile:
 linkedin.com/in/chandani-mourya-100773304
-📧 Email
+📧 Email:
 mouryamiss@gmail.com
 
